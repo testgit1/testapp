@@ -2,6 +2,4 @@ this is test.Switched to QA Now
 
 changing the file to check the merging.
 
-
-m going to merge it with master.
-merging started.
+hi this is rajeev.
